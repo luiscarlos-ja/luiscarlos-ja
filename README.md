@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Luis Carlos</h1>
-<h3 align="center">A passionate frontend developer from México</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-coding-digital-marketing-b63zccx04i4luhh9.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luiscarlos-ja&label=Profile%20views&color=0e75b6&style=flat" alt="luiscarlos-ja" /> </p>
@@ -14,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luis-carlos-j-azuara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-carlos-j-azuara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-carlos-ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-carlos-j-azuara" height="30" width="40" /></a>
 <a href="https://instagram.com/luiscarlos_ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luiscarlos_ja" height="30" width="40" /></a>
 <a href="https://www.behance.net/luiscarlos_ja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="luiscajuarez3" height="30" width="40" /></a>
 </p>
