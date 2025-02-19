@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Helix360<br>👯 I’m looking to collaborate on JavaScript - Python projects<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript<br>⚡ Fun fact Did you know? The term "debugging" originated from a real incident in 1947 when engineers found a moth causing an error in a computer!
+🔭 I’m currently working on Helix360<br>👯 I’m looking to collaborate on JavaScript - Python projects<br>🌱 I’m currently learning Python<br>💬 Ask me about JavaScript & React.js<br>⚡ Fun fact Did you know? The term "debugging" originated from a real incident in 1947 when engineers found a moth causing an error in a computer!
 
 
 ## 🌐 Socials:
